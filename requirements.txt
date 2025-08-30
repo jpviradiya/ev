@@ -1,0 +1,7 @@
+mlxtend           # for machine learning extensions
+plotly            # for interactive visualizations 
+xlsxwriter        # for writing excel files
+numpy             # for numerical operations
+pandas            # for data manipulation
+matplotlib        # for data visualization
+seaborn           # for advance data visualization
